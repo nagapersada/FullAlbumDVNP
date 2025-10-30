@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dvnp-motivation-v5'; // <-- VERSI BARU (v5)
+const CACHE_NAME = 'dvnp-motivation-v6'; // <-- VERSI BARU (v6)
 const urlsToCache = [
     './',
     './index.html',
@@ -10,7 +10,7 @@ const urlsToCache = [
     './icons/icon-192x192.png',
     './icons/icon-512x512.png',
     
-    // Daftar lengkap lagu (urutan tidak penting di sini, tapi kelengkapan penting)
+    // Daftar lengkap lagu (penting untuk PWA)
     './audio/Leader Tim.mp3',
     './audio/Alat-alat Tim DVNP.mp3',
     './audio/Metode Kerja.mp3',
